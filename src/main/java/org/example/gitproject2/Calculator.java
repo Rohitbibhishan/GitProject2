@@ -2,12 +2,7 @@ package org.example.gitproject2;
 
 public class Calculator {
     public int sum(int a, int b) {
-        return a + b;
+        return a + b+10;
     }
-
-    public int Sub(int a, int b) {
-        return a - b;
-    }
-
 
 }
